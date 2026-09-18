@@ -1,0 +1,26 @@
+[project]
+name = "python-for-ai-engineering"
+version = "0.1.0"
+description = "Student notebooks for the Python for AI Engineering course"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi",
+    "httpx",
+    "ipykernel",
+    "ipytest",
+    "ipython",
+    "notebook",
+    "numpy",
+    "openai",
+    "pandas",
+    "pydantic",
+    "pytest",
+    "python-dotenv",
+    "requests",
+    "rich",
+    "uvicorn",
+]
+
+[tool.uv]
+package = false
