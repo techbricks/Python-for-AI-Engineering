@@ -18,11 +18,11 @@ If Git is not installed, macOS will automatically prompt:
 
 > "The git command requires the command line developer tools."
 
-![macOS Git prompt - Install dialog](../images/git-command-1.png)
+![macOS Git prompt - Install dialog](images/git-command-1.png)
 
 Click **Install** to begin the installation:
 
-<img src="../images/git-command-2.png" alt="macOS Git prompt - Installing" width="450">
+<img src="images/git-command-2.png" alt="macOS Git prompt - Installing" width="450">
 
 Accept it → Git gets installed.
 
