@@ -2,7 +2,7 @@
 
 Course notebooks, grouped by module. **41 required + 2 optional.**
 
-Start with `module_01/m1-1-mini-env-setup.ipynb` — it walks through IDE, Git, uv, clone, `uv sync`, and `.env` secrets.
+Start with `module_01/m1-1-mini-env-setup.ipynb` — it walks through IDE, Git, uv, clone, `uv sync`, a project virtual environment, and pinned dependencies.
 
 **Core path (no paid API key):** mock + hosted adapter against recorded fixtures + CLI.  
 **Optional:** `module_06/m6-4-mini-local-backend.ipynb`, `module_10/m10-2-mini-http-endpoint.ipynb`.
