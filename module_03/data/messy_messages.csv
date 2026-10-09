@@ -1,0 +1,631 @@
+id,role,text,tokens
+99,assistant,Explain embeddings.,2
+211,user,Describe prompt engineering.,12
+300,user,Describe prompt engineering.,7
+594,system,Chunking splits documents into smaller pieces.,9
+447,user,  Fine-tuning adapts a pre-trained model to a specific task.  ,12
+347,user,What is tokenization?,12
+1,user,What are LLM agents?,5
+333,system,What is cosine similarity?,11
+370,system,Vector databases store and query high-dimensional vectors.,8
+546,system,How do I evaluate a RAG pipeline?,4
+209,system,Retrieval-Augmented Generation combines search with LLMs.,9
+222,system,Tell me about vector databases.,12
+591,system,Embeddings are dense vector representations of text.,4
+401,assistant,What is tokenization?,14
+340,system,Tell me about vector databases.,8
+228,system,Explain embeddings.,4
+521,chatbot,  Explain embeddings.  ,4
+394,user,How does chunking work?,13
+257,assistant,What is fine-tuning?,15
+525,assistant,How do I evaluate a RAG pipeline?,9
+163,system,What is RAG?,15
+75,user,Fine-tuning adapts a pre-trained model to a specific task.,13
+34,assistant,Embeddings are dense vector representations of text.,6
+201,user,What is JSON Lines?,11
+442,assistant,How do I evaluate a RAG pipeline?,6
+241,assistant,Fine-tuning adapts a pre-trained model to a specific task.,12
+284,assistant,Explain embeddings.,7
+14,system,Vector databases store and query high-dimensional vectors.,15
+420,assistant,Explain attention mechanisms.,7
+94,bot,,13
+322,assistant,Explain chain-of-thought reasoning.,4
+403,system,Fine-tuning adapts a pre-trained model to a specific task.,9
+378,user,Explain chain-of-thought reasoning.,3
+256,user,Retrieval-Augmented Generation combines search with LLMs.,7
+157,system,Describe prompt engineering.,5
+568,ai,  Embeddings are dense vector representations of text.  ,10
+174,user,What is JSON Lines?,4
+338,system,Tell me about vector databases.,8
+65,assistant,What is JSON Lines?,5
+435,assistant,What is JSON Lines?,11
+204,assistant,What is cosine similarity?,6
+529,system,What is fine-tuning?,6
+151,assistant,Vector databases store and query high-dimensional vectors.,15
+513,user,Chunking splits documents into smaller pieces.,6
+539,user,Retrieval-Augmented Generation combines search with LLMs.,2
+318,system,Tell me about vector databases.,12
+148,,   ,5
+250,user,Explain attention mechanisms.,12
+419,user,What is few-shot prompting?,15
+45,system,How does chunking work?,3
+291,assistant,What is cosine similarity?,11
+,,,-2
+100,user,What are LLM agents?,4
+456,user,Tell me about vector databases.,4
+175,,   ,8
+221,assistant,Explain embeddings.,2
+173,system,What is RAG?,3
+445,system,What is few-shot prompting?,6
+585,assistant,Vector databases store and query high-dimensional vectors.,12
+312,assistant,Describe prompt engineering.,2
+441,assistant,Embeddings are dense vector representations of text.,10
+511,assistant,How do I evaluate a RAG pipeline?,14
+37,user,What is JSON Lines?,2
+434,system,How does chunking work?,11
+499,assistant,Tell me about vector databases.,2
+288,user,What is JSON Lines?,3
+377,assistant,How does chunking work?,3
+19,system,What are LLM agents?,13
+418,user,Explain chain-of-thought reasoning.,11
+249,system,What is cosine similarity?,11
+449,assistant,Tell me about vector databases.,11
+423,system,Tell me about vector databases.,5
+433,user,How do I evaluate a RAG pipeline?,15
+592,system,What is cosine similarity?,4
+381,system,What is fine-tuning?,8
+159,human,  What is few-shot prompting?  ,13
+559,system,What are LLM agents?,12
+109,assistant,Vector databases store and query high-dimensional vectors.,13
+309,system,What are LLM agents?,9
+563,system,What is few-shot prompting?,6
+410,system,How do I evaluate a RAG pipeline?,3
+546,system,How do I evaluate a RAG pipeline?,4
+321,system,Tell me about vector databases.,3
+500,assistant,How do transformers work?,15
+512,user,Explain chain-of-thought reasoning.,3
+570,chatbot,  Explain attention mechanisms.  ,4
+429,system,What is cosine similarity?,4
+43,user,What is fine-tuning?,7
+380,,   ,10
+542,user,Describe prompt engineering.,8
+64,system,  What is JSON Lines?  ,4
+108,system,What is fine-tuning?,7
+22,assistant,Chunking splits documents into smaller pieces.,5
+471,assistant,Chunking splits documents into smaller pieces.,3
+187,user,Describe prompt engineering.,3
+409,system,Explain attention mechanisms.,10
+8,user,Explain chain-of-thought reasoning.,7
+364,user,Explain embeddings.,9
+183,user,  Vector databases store and query high-dimensional vectors.  ,4
+101,system,Explain chain-of-thought reasoning.,10
+244,user,Explain embeddings.,4
+475,user,What is JSON Lines?,7
+566,user,What is cosine similarity?,15
+171,user,Vector databases store and query high-dimensional vectors.,10
+188,assistant,Fine-tuning adapts a pre-trained model to a specific task.,12
+584,assistant,Embeddings are dense vector representations of text.,9
+84,user,What is cosine similarity?,5
+119,assistant,How do I evaluate a RAG pipeline?,12
+143,assistant,Explain chain-of-thought reasoning.,12
+88,system,What are LLM agents?,4
+386,assistant,Chunking splits documents into smaller pieces.,7
+319,,,12
+421,user,Embeddings are dense vector representations of text.,12
+301,user,Explain attention mechanisms.,10
+426,system,Retrieval-Augmented Generation combines search with LLMs.,9
+474,system,Tell me about vector databases.,15
+515,assistant,Vector databases store and query high-dimensional vectors.,13
+505,system,What is few-shot prompting?,15
+11,assistant,Vector databases store and query high-dimensional vectors.,6
+530,system,What is JSON Lines?,5
+581,system,How do I evaluate a RAG pipeline?,14
+333,system,What is cosine similarity?,11
+133,assistant,Chunking splits documents into smaller pieces.,15
+582,user,What is few-shot prompting?,2
+390,system,What are LLM agents?,2
+413,system,Explain chain-of-thought reasoning.,11
+545,ai,  How does chunking work?  ,9
+50,system,How do I evaluate a RAG pipeline?,9
+266,assistant,What is JSON Lines?,13
+156,assistant,Explain attention mechanisms.,6
+,,,-3
+28,user,Chunking splits documents into smaller pieces.,10
+46,user,Chunking splits documents into smaller pieces.,14
+111,assistant,What is RAG?,4
+129,user,Describe prompt engineering.,10
+184,assistant,What is fine-tuning?,11
+487,,   ,15
+261,chatbot,,15
+71,user,  What is few-shot prompting?  ,6
+136,assistant,What is JSON Lines?,12
+384,user,Fine-tuning adapts a pre-trained model to a specific task.,10
+247,assistant,Embeddings are dense vector representations of text.,10
+538,user,What is fine-tuning?,5
+526,system,Tell me about vector databases.,10
+,,,-1
+161,system,What is JSON Lines?,8
+200,user,How does chunking work?,6
+462,system,How do transformers work?,13
+461,user,How do transformers work?,15
+166,assistant,Explain chain-of-thought reasoning.,10
+96,assistant,What is tokenization?,12
+117,user,Explain attention mechanisms.,2
+130,assistant,What is cosine similarity?,8
+56,assistant,How does chunking work?,10
+3,system,How does chunking work?,11
+549,user,What is fine-tuning?,10
+330,system,What are LLM agents?,11
+436,system,Explain embeddings.,9
+,,,0
+431,assistant,Fine-tuning adapts a pre-trained model to a specific task.,2
+357,user,How do transformers work?,6
+13,chatbot,  How does chunking work?  ,10
+20,system,How does chunking work?,11
+522,,   ,14
+135,system,Vector databases store and query high-dimensional vectors.,12
+16,assistant,How does chunking work?,15
+353,user,What are LLM agents?,15
+139,system,What is cosine similarity?,3
+531,assistant,Retrieval-Augmented Generation combines search with LLMs.,5
+432,user,Describe prompt engineering.,9
+140,user,Describe prompt engineering.,5
+450,user,Describe prompt engineering.,10
+175,,   ,8
+91,system,Embeddings are dense vector representations of text.,2
+600,user,Fine-tuning adapts a pre-trained model to a specific task.,9
+348,user,Explain embeddings.,14
+528,user,How do transformers work?,9
+310,user,What is few-shot prompting?,15
+326,user,What is JSON Lines?,3
+,,,-1
+87,system,What is fine-tuning?,3
+176,assistant,What is cosine similarity?,7
+556,system,  Vector databases store and query high-dimensional vectors.  ,13
+302,system,How do transformers work?,4
+393,user,Tell me about vector databases.,13
+406,user,Tell me about vector databases.,14
+146,user,Explain chain-of-thought reasoning.,5
+226,assistant,Retrieval-Augmented Generation combines search with LLMs.,3
+59,assistant,Explain chain-of-thought reasoning.,5
+429,system,What is cosine similarity?,4
+51,assistant,What is fine-tuning?,5
+440,user,Explain attention mechanisms.,13
+76,system,What is cosine similarity?,2
+107,user,How do I evaluate a RAG pipeline?,5
+457,,   ,15
+316,assistant,Explain attention mechanisms.,11
+537,system,How do transformers work?,14
+379,assistant,Tell me about vector databases.,10
+593,system,Describe prompt engineering.,11
+5,system,What is RAG?,10
+317,user,What is tokenization?,11
+283,system,  Explain attention mechanisms.  ,11
+57,system,Retrieval-Augmented Generation combines search with LLMs.,5
+145,user,What is RAG?,14
+,,,-2
+334,user,What is JSON Lines?,13
+598,system,What is RAG?,11
+396,assistant,Describe prompt engineering.,13
+248,user,Vector databases store and query high-dimensional vectors.,2
+541,system,Tell me about vector databases.,11
+577,user,What is tokenization?,11
+495,assistant,Explain embeddings.,12
+,,,-3
+324,assistant,How do transformers work?,6
+26,assistant,What is tokenization?,12
+323,system,How do I evaluate a RAG pipeline?,10
+128,system,What is cosine similarity?,11
+132,assistant,How do transformers work?,11
+398,user,How do transformers work?,14
+67,system,What is fine-tuning?,2
+468,assistant,Embeddings are dense vector representations of text.,10
+178,assistant,What are LLM agents?,15
+533,assistant,How does chunking work?,14
+507,assistant,How do I evaluate a RAG pipeline?,15
+337,assistant,What is fine-tuning?,3
+,,,-3
+73,system,Chunking splits documents into smaller pieces.,12
+274,system,Tell me about vector databases.,8
+83,system,Embeddings are dense vector representations of text.,7
+343,assistant,What is JSON Lines?,5
+62,user,What is fine-tuning?,2
+,,,-3
+53,system,Explain attention mechanisms.,2
+555,user,Fine-tuning adapts a pre-trained model to a specific task.,11
+308,system,Describe prompt engineering.,12
+365,assistant,What is fine-tuning?,9
+63,assistant,What is fine-tuning?,5
+235,user,What are LLM agents?,12
+514,user,What is cosine similarity?,12
+260,assistant,What are LLM agents?,7
+376,assistant,How do I evaluate a RAG pipeline?,4
+575,assistant,Retrieval-Augmented Generation combines search with LLMs.,6
+265,,   ,6
+49,system,What is tokenization?,13
+240,assistant,How does chunking work?,12
+55,,   ,3
+4,user,How does chunking work?,5
+252,system,What are LLM agents?,11
+469,user,What is tokenization?,14
+78,system,How do transformers work?,2
+86,user,What is RAG?,9
+414,system,Explain chain-of-thought reasoning.,6
+223,assistant,What is fine-tuning?,15
+579,system,Retrieval-Augmented Generation combines search with LLMs.,6
+123,assistant,What is cosine similarity?,8
+320,assistant,What is JSON Lines?,2
+493,,   ,10
+481,user,Retrieval-Augmented Generation combines search with LLMs.,9
+21,system,Explain attention mechanisms.,4
+373,user,Explain chain-of-thought reasoning.,7
+540,system,How do I evaluate a RAG pipeline?,9
+27,system,What is JSON Lines?,4
+519,assistant,How do I evaluate a RAG pipeline?,10
+48,system,Explain chain-of-thought reasoning.,5
+518,assistant,Explain embeddings.,3
+64,system,  What is JSON Lines?  ,4
+41,assistant,  How do transformers work?  ,10
+170,assistant,How do transformers work?,15
+105,user,Explain chain-of-thought reasoning.,4
+400,assistant,Retrieval-Augmented Generation combines search with LLMs.,11
+196,assistant,Tell me about vector databases.,8
+199,system,Fine-tuning adapts a pre-trained model to a specific task.,6
+367,user,How does chunking work?,4
+272,assistant,Describe prompt engineering.,10
+290,human,  How does chunking work?  ,9
+304,assistant,Fine-tuning adapts a pre-trained model to a specific task.,4
+408,assistant,How do transformers work?,4
+479,system,What is cosine similarity?,14
+465,assistant,Explain attention mechanisms.,10
+553,system,What are LLM agents?,4
+535,,   ,10
+366,assistant,How does chunking work?,3
+243,system,Tell me about vector databases.,6
+,,,14
+95,assistant,Describe prompt engineering.,11
+372,human,,8
+527,assistant,What are LLM agents?,5
+430,assistant,What is JSON Lines?,12
+543,system,Retrieval-Augmented Generation combines search with LLMs.,10
+214,assistant,What are LLM agents?,6
+313,system,What is few-shot prompting?,6
+,,,0
+375,,,8
+392,user,Tell me about vector databases.,11
+327,human,  What is few-shot prompting?  ,15
+254,system,  What is JSON Lines?  ,6
+285,system,What is few-shot prompting?,8
+219,user,Describe prompt engineering.,5
+90,assistant,Chunking splits documents into smaller pieces.,13
+213,system,Chunking splits documents into smaller pieces.,7
+437,system,What is tokenization?,7
+573,user,What is cosine similarity?,11
+154,assistant,What are LLM agents?,14
+212,assistant,Chunking splits documents into smaller pieces.,10
+472,system,What is fine-tuning?,6
+427,system,What is JSON Lines?,12
+74,user,What is tokenization?,6
+504,user,Explain embeddings.,7
+122,assistant,Explain embeddings.,3
+,,,-1
+477,user,What is few-shot prompting?,3
+514,user,What is cosine similarity?,12
+164,system,What is few-shot prompting?,9
+565,assistant,What is JSON Lines?,5
+322,assistant,Explain chain-of-thought reasoning.,4
+149,user,What is JSON Lines?,4
+486,system,Vector databases store and query high-dimensional vectors.,9
+72,assistant,Describe prompt engineering.,8
+,,,-2
+397,system,Vector databases store and query high-dimensional vectors.,3
+422,human,,14
+120,system,Chunking splits documents into smaller pieces.,7
+225,assistant,What is cosine similarity?,4
+,,,-2
+23,user,Explain attention mechanisms.,15
+126,user,Embeddings are dense vector representations of text.,14
+25,user,What is tokenization?,11
+307,user,How does chunking work?,9
+569,human,,9
+18,assistant,How do transformers work?,7
+483,user,Chunking splits documents into smaller pieces.,13
+583,user,How do I evaluate a RAG pipeline?,10
+35,user,What is fine-tuning?,12
+483,user,Chunking splits documents into smaller pieces.,13
+124,system,What is fine-tuning?,8
+9,user,What is cosine similarity?,3
+485,assistant,What is fine-tuning?,2
+215,user,What is tokenization?,7
+369,assistant,Vector databases store and query high-dimensional vectors.,10
+385,system,Retrieval-Augmented Generation combines search with LLMs.,5
+523,assistant,What is few-shot prompting?,11
+97,assistant,Embeddings are dense vector representations of text.,9
+142,assistant,Vector databases store and query high-dimensional vectors.,15
+80,system,Explain attention mechanisms.,8
+178,assistant,What are LLM agents?,15
+236,,,5
+452,system,Embeddings are dense vector representations of text.,3
+118,assistant,What is cosine similarity?,6
+195,assistant,How do I evaluate a RAG pipeline?,12
+273,assistant,Retrieval-Augmented Generation combines search with LLMs.,9
+218,system,Vector databases store and query high-dimensional vectors.,6
+113,system,Explain attention mechanisms.,6
+152,system,Explain chain-of-thought reasoning.,15
+471,assistant,Chunking splits documents into smaller pieces.,3
+153,assistant,How do transformers work?,13
+402,assistant,Explain chain-of-thought reasoning.,3
+399,system,How does chunking work?,6
+115,assistant,Explain attention mechanisms.,5
+66,user,What is JSON Lines?,14
+443,assistant,Vector databases store and query high-dimensional vectors.,2
+202,assistant,What is cosine similarity?,2
+458,system,Chunking splits documents into smaller pieces.,15
+561,assistant,Chunking splits documents into smaller pieces.,6
+478,user,What is cosine similarity?,3
+179,,,2
+498,system,What is fine-tuning?,14
+476,assistant,Explain embeddings.,8
+277,assistant,What is cosine similarity?,14
+534,assistant,How do I evaluate a RAG pipeline?,13
+350,,   ,14
+446,system,Vector databases store and query high-dimensional vectors.,15
+193,assistant,How does chunking work?,10
+194,user,Explain chain-of-thought reasoning.,15
+230,chatbot,,11
+196,assistant,Tell me about vector databases.,8
+464,assistant,Vector databases store and query high-dimensional vectors.,6
+216,human,,5
+331,system,How do I evaluate a RAG pipeline?,3
+374,assistant,Explain chain-of-thought reasoning.,13
+571,,,6
+70,user,What is few-shot prompting?,2
+93,human,,6
+210,user,Describe prompt engineering.,5
+147,system,  Embeddings are dense vector representations of text.  ,9
+17,user,What is few-shot prompting?,6
+460,system,Tell me about vector databases.,11
+36,assistant,What is cosine similarity?,3
+31,user,What is fine-tuning?,4
+590,ai,  Retrieval-Augmented Generation combines search with LLMs.  ,10
+33,,   ,8
+359,user,How does chunking work?,9
+177,assistant,What are LLM agents?,14
+217,assistant,What are LLM agents?,13
+,,,-1
+554,system,Chunking splits documents into smaller pieces.,3
+550,user,  How do transformers work?  ,7
+,,,-1
+382,system,Explain chain-of-thought reasoning.,15
+2,system,What is fine-tuning?,12
+131,system,Tell me about vector databases.,5
+203,assistant,How do transformers work?,9
+12,system,What is JSON Lines?,10
+502,user,  How does chunking work?  ,13
+490,chatbot,  What is RAG?  ,11
+345,system,How do I evaluate a RAG pipeline?,2
+237,user,  How do transformers work?  ,2
+287,user,Embeddings are dense vector representations of text.,11
+30,user,Tell me about vector databases.,10
+439,assistant,How does chunking work?,10
+234,system,What is fine-tuning?,14
+463,assistant,How do I evaluate a RAG pipeline?,12
+595,assistant,Retrieval-Augmented Generation combines search with LLMs.,15
+68,system,What is RAG?,3
+467,system,What is JSON Lines?,9
+29,system,Explain chain-of-thought reasoning.,11
+415,bot,,7
+444,system,What is cosine similarity?,3
+262,user,Chunking splits documents into smaller pieces.,9
+47,chatbot,  Chunking splits documents into smaller pieces.  ,4
+251,system,Fine-tuning adapts a pre-trained model to a specific task.,2
+503,assistant,Explain embeddings.,6
+368,system,Fine-tuning adapts a pre-trained model to a specific task.,10
+,,,7
+451,assistant,Tell me about vector databases.,12
+60,,,12
+227,assistant,Retrieval-Augmented Generation combines search with LLMs.,3
+267,user,Vector databases store and query high-dimensional vectors.,14
+168,assistant,Explain chain-of-thought reasoning.,9
+85,user,Describe prompt engineering.,9
+77,,   ,9
+275,system,  Embeddings are dense vector representations of text.  ,13
+209,system,Retrieval-Augmented Generation combines search with LLMs.,9
+,,,-1
+259,assistant,Chunking splits documents into smaller pieces.,2
+452,system,Embeddings are dense vector representations of text.,3
+425,user,  How does chunking work?  ,4
+494,system,Chunking splits documents into smaller pieces.,2
+58,system,Fine-tuning adapts a pre-trained model to a specific task.,11
+289,assistant,What is RAG?,13
+40,system,Embeddings are dense vector representations of text.,11
+186,system,Vector databases store and query high-dimensional vectors.,13
+482,user,What is RAG?,6
+322,assistant,Explain chain-of-thought reasoning.,4
+509,ai,  Explain chain-of-thought reasoning.  ,8
+270,,,15
+42,system,What is RAG?,11
+404,assistant,Explain embeddings.,5
+448,ai,  Describe prompt engineering.  ,12
+547,system,Fine-tuning adapts a pre-trained model to a specific task.,4
+387,ai,,11
+349,user,Fine-tuning adapts a pre-trained model to a specific task.,5
+127,system,What is tokenization?,7
+391,system,  Describe prompt engineering.  ,7
+586,user,What is fine-tuning?,8
+423,system,Tell me about vector databases.,5
+341,assistant,Vector databases store and query high-dimensional vectors.,8
+520,system,How do transformers work?,2
+276,user,What are LLM agents?,14
+388,assistant,Chunking splits documents into smaller pieces.,14
+242,user,Explain chain-of-thought reasoning.,3
+282,assistant,What is cosine similarity?,15
+360,assistant,Embeddings are dense vector representations of text.,11
+421,user,Embeddings are dense vector representations of text.,12
+192,bot,  How do I evaluate a RAG pipeline?  ,10
+311,user,What is few-shot prompting?,11
+383,user,Describe prompt engineering.,11
+233,assistant,Describe prompt engineering.,11
+79,user,How do transformers work?,3
+245,system,Fine-tuning adapts a pre-trained model to a specific task.,6
+69,user,How do transformers work?,8
+113,system,Explain attention mechanisms.,6
+114,system,  What is fine-tuning?  ,8
+315,system,Retrieval-Augmented Generation combines search with LLMs.,15
+189,assistant,What is few-shot prompting?,13
+152,system,Explain chain-of-thought reasoning.,15
+532,bot,  What is JSON Lines?  ,4
+328,assistant,How does chunking work?,14
+156,assistant,Explain attention mechanisms.,6
+390,system,What are LLM agents?,2
+160,user,  How does chunking work?  ,8
+395,assistant,Explain chain-of-thought reasoning.,9
+361,human,,11
+455,user,  What is cosine similarity?  ,14
+459,system,Explain embeddings.,12
+473,,,4
+258,assistant,  Retrieval-Augmented Generation combines search with LLMs.  ,6
+352,assistant,Tell me about vector databases.,14
+208,system,Explain attention mechanisms.,13
+82,system,How does chunking work?,8
+158,assistant,Chunking splits documents into smaller pieces.,3
+580,user,Explain chain-of-thought reasoning.,4
+562,assistant,Retrieval-Augmented Generation combines search with LLMs.,5
+342,assistant,Explain embeddings.,13
+32,system,Explain chain-of-thought reasoning.,11
+510,assistant,What is cosine similarity?,4
+597,assistant,Fine-tuning adapts a pre-trained model to a specific task.,6
+185,assistant,What are LLM agents?,14
+335,assistant,What is fine-tuning?,4
+,,,-1
+532,bot,  What is JSON Lines?  ,4
+294,system,Retrieval-Augmented Generation combines search with LLMs.,15
+371,,,13
+299,assistant,  What is RAG?  ,2
+155,system,What are LLM agents?,14
+,,,-1
+516,system,What is JSON Lines?,7
+137,assistant,How do transformers work?,12
+386,assistant,Chunking splits documents into smaller pieces.,7
+229,ai,  How does chunking work?  ,5
+121,user,What are LLM agents?,4
+490,chatbot,  What is RAG?  ,11
+268,user,Describe prompt engineering.,10
+7,system,What are LLM agents?,14
+255,system,  Explain chain-of-thought reasoning.  ,12
+332,assistant,What is RAG?,11
+567,system,How do I evaluate a RAG pipeline?,8
+144,system,What is few-shot prompting?,9
+190,system,  Explain attention mechanisms.  ,3
+98,user,How does chunking work?,12
+411,system,Explain embeddings.,8
+89,user,Explain attention mechanisms.,7
+,,,2
+438,system,Tell me about vector databases.,2
+416,system,  What is JSON Lines?  ,15
+33,,   ,8
+536,assistant,How do transformers work?,13
+303,system,  What is few-shot prompting?  ,11
+346,user,What is fine-tuning?,15
+15,user,How does chunking work?,2
+551,user,How do I evaluate a RAG pipeline?,10
+264,assistant,What is JSON Lines?,14
+470,assistant,Explain embeddings.,12
+167,system,Vector databases store and query high-dimensional vectors.,5
+589,user,Explain embeddings.,2
+116,assistant,How do I evaluate a RAG pipeline?,6
+198,system,Retrieval-Augmented Generation combines search with LLMs.,9
+280,user,What is JSON Lines?,10
+480,bot,  Describe prompt engineering.  ,15
+517,system,How do I evaluate a RAG pipeline?,11
+138,,,10
+506,assistant,Explain embeddings.,14
+537,system,How do transformers work?,14
+466,assistant,What is tokenization?,7
+292,system,How does chunking work?,15
+344,user,How do I evaluate a RAG pipeline?,10
+110,user,  How do transformers work?  ,14
+142,assistant,Vector databases store and query high-dimensional vectors.,15
+10,,,3
+558,user,How does chunking work?,2
+297,,,3
+191,assistant,Vector databases store and query high-dimensional vectors.,14
+508,system,What is cosine similarity?,6
+407,assistant,What is fine-tuning?,2
+38,system,What are LLM agents?,10
+181,system,Explain embeddings.,14
+428,system,Vector databases store and query high-dimensional vectors.,7
+180,user,How do I evaluate a RAG pipeline?,5
+39,system,What is fine-tuning?,15
+548,user,Explain chain-of-thought reasoning.,10
+238,system,Vector databases store and query high-dimensional vectors.,9
+92,system,Describe prompt engineering.,12
+61,assistant,Explain chain-of-thought reasoning.,9
+293,system,Chunking splits documents into smaller pieces.,8
+329,assistant,Chunking splits documents into smaller pieces.,3
+599,system,Fine-tuning adapts a pre-trained model to a specific task.,11
+205,system,What are LLM agents?,10
+489,system,Explain attention mechanisms.,13
+488,system,Chunking splits documents into smaller pieces.,2
+417,assistant,How does chunking work?,8
+162,,   ,15
+564,system,Explain embeddings.,4
+6,system,  Chunking splits documents into smaller pieces.  ,8
+587,assistant,Chunking splits documents into smaller pieces.,7
+578,user,Describe prompt engineering.,9
+484,assistant,What is fine-tuning?,14
+339,system,Chunking splits documents into smaller pieces.,8
+424,ai,,5
+103,system,Tell me about vector databases.,10
+54,,   ,12
+239,user,Describe prompt engineering.,13
+232,assistant,What is JSON Lines?,6
+544,assistant,Fine-tuning adapts a pre-trained model to a specific task.,3
+52,assistant,What is RAG?,11
+249,system,What is cosine similarity?,11
+246,assistant,Describe prompt engineering.,13
+112,assistant,Explain chain-of-thought reasoning.,14
+141,user,What is RAG?,2
+279,system,Fine-tuning adapts a pre-trained model to a specific task.,12
+576,user,What is few-shot prompting?,10
+278,user,Describe prompt engineering.,13
+552,user,What are LLM agents?,5
+207,,,13
+220,assistant,What is RAG?,13
+491,system,Explain chain-of-thought reasoning.,4
+263,user,Embeddings are dense vector representations of text.,7
+453,assistant,Embeddings are dense vector representations of text.,7
+355,user,What is RAG?,4
+81,human,,11
+20,system,How does chunking work?,11
+44,assistant,Explain attention mechanisms.,2
+298,system,What is fine-tuning?,9
+150,system,Embeddings are dense vector representations of text.,10
+354,user,Chunking splits documents into smaller pieces.,6
+405,system,Explain embeddings.,2
+389,system,Chunking splits documents into smaller pieces.,2
+557,assistant,Fine-tuning adapts a pre-trained model to a specific task.,2
+588,user,Vector databases store and query high-dimensional vectors.,10
+125,user,What are LLM agents?,2
+295,system,How does chunking work?,5
+281,assistant,Chunking splits documents into smaller pieces.,14
+574,user,How do transformers work?,9
+358,,   ,13
+492,user,Embeddings are dense vector representations of text.,7
+325,assistant,Describe prompt engineering.,13
+501,assistant,Retrieval-Augmented Generation combines search with LLMs.,12
+213,system,Chunking splits documents into smaller pieces.,7
+296,assistant,Explain attention mechanisms.,13
+305,system,What are LLM agents?,9
+231,system,Explain attention mechanisms.,14
+306,user,What is JSON Lines?,6
+572,system,Explain chain-of-thought reasoning.,5
+286,system,Tell me about vector databases.,9
+,,,14
+197,system,  What are LLM agents?  ,11
+496,assistant,What are LLM agents?,13
+539,user,Retrieval-Augmented Generation combines search with LLMs.,2
+271,assistant,What is fine-tuning?,12
+363,system,Embeddings are dense vector representations of text.,6
+560,system,Explain chain-of-thought reasoning.,11
+351,system,What is tokenization?,15

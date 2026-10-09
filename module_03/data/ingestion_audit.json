@@ -1,0 +1,15 @@
+{
+  "source_file": "data\\messy_messages.csv",
+  "raw_rows": 630,
+  "clean_rows": 519,
+  "total_dropped": 111,
+  "drop_rate": 0.1762,
+  "cleaning_steps": [
+    "drop missing id",
+    "drop missing role",
+    "drop empty/whitespace text",
+    "drop exact duplicates",
+    "drop invalid roles (kept: user, assistant, system)",
+    "drop non-positive token counts"
+  ]
+}

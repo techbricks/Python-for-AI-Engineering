@@ -1,0 +1,519 @@
+{"id": 99, "role": "assistant", "text": "Explain embeddings.", "tokens": 2}
+{"id": 211, "role": "user", "text": "Describe prompt engineering.", "tokens": 12}
+{"id": 300, "role": "user", "text": "Describe prompt engineering.", "tokens": 7}
+{"id": 594, "role": "system", "text": "Chunking splits documents into smaller pieces.", "tokens": 9}
+{"id": 447, "role": "user", "text": "Fine-tuning adapts a pre-trained model to a specific task.", "tokens": 12}
+{"id": 347, "role": "user", "text": "What is tokenization?", "tokens": 12}
+{"id": 1, "role": "user", "text": "What are LLM agents?", "tokens": 5}
+{"id": 333, "role": "system", "text": "What is cosine similarity?", "tokens": 11}
+{"id": 370, "role": "system", "text": "Vector databases store and query high-dimensional vectors.", "tokens": 8}
+{"id": 546, "role": "system", "text": "How do I evaluate a RAG pipeline?", "tokens": 4}
+{"id": 209, "role": "system", "text": "Retrieval-Augmented Generation combines search with LLMs.", "tokens": 9}
+{"id": 222, "role": "system", "text": "Tell me about vector databases.", "tokens": 12}
+{"id": 591, "role": "system", "text": "Embeddings are dense vector representations of text.", "tokens": 4}
+{"id": 401, "role": "assistant", "text": "What is tokenization?", "tokens": 14}
+{"id": 340, "role": "system", "text": "Tell me about vector databases.", "tokens": 8}
+{"id": 228, "role": "system", "text": "Explain embeddings.", "tokens": 4}
+{"id": 394, "role": "user", "text": "How does chunking work?", "tokens": 13}
+{"id": 257, "role": "assistant", "text": "What is fine-tuning?", "tokens": 15}
+{"id": 525, "role": "assistant", "text": "How do I evaluate a RAG pipeline?", "tokens": 9}
+{"id": 163, "role": "system", "text": "What is RAG?", "tokens": 15}
+{"id": 75, "role": "user", "text": "Fine-tuning adapts a pre-trained model to a specific task.", "tokens": 13}
+{"id": 34, "role": "assistant", "text": "Embeddings are dense vector representations of text.", "tokens": 6}
+{"id": 201, "role": "user", "text": "What is JSON Lines?", "tokens": 11}
+{"id": 442, "role": "assistant", "text": "How do I evaluate a RAG pipeline?", "tokens": 6}
+{"id": 241, "role": "assistant", "text": "Fine-tuning adapts a pre-trained model to a specific task.", "tokens": 12}
+{"id": 284, "role": "assistant", "text": "Explain embeddings.", "tokens": 7}
+{"id": 14, "role": "system", "text": "Vector databases store and query high-dimensional vectors.", "tokens": 15}
+{"id": 420, "role": "assistant", "text": "Explain attention mechanisms.", "tokens": 7}
+{"id": 322, "role": "assistant", "text": "Explain chain-of-thought reasoning.", "tokens": 4}
+{"id": 403, "role": "system", "text": "Fine-tuning adapts a pre-trained model to a specific task.", "tokens": 9}
+{"id": 378, "role": "user", "text": "Explain chain-of-thought reasoning.", "tokens": 3}
+{"id": 256, "role": "user", "text": "Retrieval-Augmented Generation combines search with LLMs.", "tokens": 7}
+{"id": 157, "role": "system", "text": "Describe prompt engineering.", "tokens": 5}
+{"id": 174, "role": "user", "text": "What is JSON Lines?", "tokens": 4}
+{"id": 338, "role": "system", "text": "Tell me about vector databases.", "tokens": 8}
+{"id": 65, "role": "assistant", "text": "What is JSON Lines?", "tokens": 5}
+{"id": 435, "role": "assistant", "text": "What is JSON Lines?", "tokens": 11}
+{"id": 204, "role": "assistant", "text": "What is cosine similarity?", "tokens": 6}
+{"id": 529, "role": "system", "text": "What is fine-tuning?", "tokens": 6}
+{"id": 151, "role": "assistant", "text": "Vector databases store and query high-dimensional vectors.", "tokens": 15}
+{"id": 513, "role": "user", "text": "Chunking splits documents into smaller pieces.", "tokens": 6}
+{"id": 539, "role": "user", "text": "Retrieval-Augmented Generation combines search with LLMs.", "tokens": 2}
+{"id": 318, "role": "system", "text": "Tell me about vector databases.", "tokens": 12}
+{"id": 250, "role": "user", "text": "Explain attention mechanisms.", "tokens": 12}
+{"id": 419, "role": "user", "text": "What is few-shot prompting?", "tokens": 15}
+{"id": 45, "role": "system", "text": "How does chunking work?", "tokens": 3}
+{"id": 291, "role": "assistant", "text": "What is cosine similarity?", "tokens": 11}
+{"id": 100, "role": "user", "text": "What are LLM agents?", "tokens": 4}
+{"id": 456, "role": "user", "text": "Tell me about vector databases.", "tokens": 4}
+{"id": 221, "role": "assistant", "text": "Explain embeddings.", "tokens": 2}
+{"id": 173, "role": "system", "text": "What is RAG?", "tokens": 3}
+{"id": 445, "role": "system", "text": "What is few-shot prompting?", "tokens": 6}
+{"id": 585, "role": "assistant", "text": "Vector databases store and query high-dimensional vectors.", "tokens": 12}
+{"id": 312, "role": "assistant", "text": "Describe prompt engineering.", "tokens": 2}
+{"id": 441, "role": "assistant", "text": "Embeddings are dense vector representations of text.", "tokens": 10}
+{"id": 511, "role": "assistant", "text": "How do I evaluate a RAG pipeline?", "tokens": 14}
+{"id": 37, "role": "user", "text": "What is JSON Lines?", "tokens": 2}
+{"id": 434, "role": "system", "text": "How does chunking work?", "tokens": 11}
+{"id": 499, "role": "assistant", "text": "Tell me about vector databases.", "tokens": 2}
+{"id": 288, "role": "user", "text": "What is JSON Lines?", "tokens": 3}
+{"id": 377, "role": "assistant", "text": "How does chunking work?", "tokens": 3}
+{"id": 19, "role": "system", "text": "What are LLM agents?", "tokens": 13}
+{"id": 418, "role": "user", "text": "Explain chain-of-thought reasoning.", "tokens": 11}
+{"id": 249, "role": "system", "text": "What is cosine similarity?", "tokens": 11}
+{"id": 449, "role": "assistant", "text": "Tell me about vector databases.", "tokens": 11}
+{"id": 423, "role": "system", "text": "Tell me about vector databases.", "tokens": 5}
+{"id": 433, "role": "user", "text": "How do I evaluate a RAG pipeline?", "tokens": 15}
+{"id": 592, "role": "system", "text": "What is cosine similarity?", "tokens": 4}
+{"id": 381, "role": "system", "text": "What is fine-tuning?", "tokens": 8}
+{"id": 559, "role": "system", "text": "What are LLM agents?", "tokens": 12}
+{"id": 109, "role": "assistant", "text": "Vector databases store and query high-dimensional vectors.", "tokens": 13}
+{"id": 309, "role": "system", "text": "What are LLM agents?", "tokens": 9}
+{"id": 563, "role": "system", "text": "What is few-shot prompting?", "tokens": 6}
+{"id": 410, "role": "system", "text": "How do I evaluate a RAG pipeline?", "tokens": 3}
+{"id": 321, "role": "system", "text": "Tell me about vector databases.", "tokens": 3}
+{"id": 500, "role": "assistant", "text": "How do transformers work?", "tokens": 15}
+{"id": 512, "role": "user", "text": "Explain chain-of-thought reasoning.", "tokens": 3}
+{"id": 429, "role": "system", "text": "What is cosine similarity?", "tokens": 4}
+{"id": 43, "role": "user", "text": "What is fine-tuning?", "tokens": 7}
+{"id": 542, "role": "user", "text": "Describe prompt engineering.", "tokens": 8}
+{"id": 64, "role": "system", "text": "What is JSON Lines?", "tokens": 4}
+{"id": 108, "role": "system", "text": "What is fine-tuning?", "tokens": 7}
+{"id": 22, "role": "assistant", "text": "Chunking splits documents into smaller pieces.", "tokens": 5}
+{"id": 471, "role": "assistant", "text": "Chunking splits documents into smaller pieces.", "tokens": 3}
+{"id": 187, "role": "user", "text": "Describe prompt engineering.", "tokens": 3}
+{"id": 409, "role": "system", "text": "Explain attention mechanisms.", "tokens": 10}
+{"id": 8, "role": "user", "text": "Explain chain-of-thought reasoning.", "tokens": 7}
+{"id": 364, "role": "user", "text": "Explain embeddings.", "tokens": 9}
+{"id": 183, "role": "user", "text": "Vector databases store and query high-dimensional vectors.", "tokens": 4}
+{"id": 101, "role": "system", "text": "Explain chain-of-thought reasoning.", "tokens": 10}
+{"id": 244, "role": "user", "text": "Explain embeddings.", "tokens": 4}
+{"id": 475, "role": "user", "text": "What is JSON Lines?", "tokens": 7}
+{"id": 566, "role": "user", "text": "What is cosine similarity?", "tokens": 15}
+{"id": 171, "role": "user", "text": "Vector databases store and query high-dimensional vectors.", "tokens": 10}
+{"id": 188, "role": "assistant", "text": "Fine-tuning adapts a pre-trained model to a specific task.", "tokens": 12}
+{"id": 584, "role": "assistant", "text": "Embeddings are dense vector representations of text.", "tokens": 9}
+{"id": 84, "role": "user", "text": "What is cosine similarity?", "tokens": 5}
+{"id": 119, "role": "assistant", "text": "How do I evaluate a RAG pipeline?", "tokens": 12}
+{"id": 143, "role": "assistant", "text": "Explain chain-of-thought reasoning.", "tokens": 12}
+{"id": 88, "role": "system", "text": "What are LLM agents?", "tokens": 4}
+{"id": 386, "role": "assistant", "text": "Chunking splits documents into smaller pieces.", "tokens": 7}
+{"id": 421, "role": "user", "text": "Embeddings are dense vector representations of text.", "tokens": 12}
+{"id": 301, "role": "user", "text": "Explain attention mechanisms.", "tokens": 10}
+{"id": 426, "role": "system", "text": "Retrieval-Augmented Generation combines search with LLMs.", "tokens": 9}
+{"id": 474, "role": "system", "text": "Tell me about vector databases.", "tokens": 15}
+{"id": 515, "role": "assistant", "text": "Vector databases store and query high-dimensional vectors.", "tokens": 13}
+{"id": 505, "role": "system", "text": "What is few-shot prompting?", "tokens": 15}
+{"id": 11, "role": "assistant", "text": "Vector databases store and query high-dimensional vectors.", "tokens": 6}
+{"id": 530, "role": "system", "text": "What is JSON Lines?", "tokens": 5}
+{"id": 581, "role": "system", "text": "How do I evaluate a RAG pipeline?", "tokens": 14}
+{"id": 133, "role": "assistant", "text": "Chunking splits documents into smaller pieces.", "tokens": 15}
+{"id": 582, "role": "user", "text": "What is few-shot prompting?", "tokens": 2}
+{"id": 390, "role": "system", "text": "What are LLM agents?", "tokens": 2}
+{"id": 413, "role": "system", "text": "Explain chain-of-thought reasoning.", "tokens": 11}
+{"id": 50, "role": "system", "text": "How do I evaluate a RAG pipeline?", "tokens": 9}
+{"id": 266, "role": "assistant", "text": "What is JSON Lines?", "tokens": 13}
+{"id": 156, "role": "assistant", "text": "Explain attention mechanisms.", "tokens": 6}
+{"id": 28, "role": "user", "text": "Chunking splits documents into smaller pieces.", "tokens": 10}
+{"id": 46, "role": "user", "text": "Chunking splits documents into smaller pieces.", "tokens": 14}
+{"id": 111, "role": "assistant", "text": "What is RAG?", "tokens": 4}
+{"id": 129, "role": "user", "text": "Describe prompt engineering.", "tokens": 10}
+{"id": 184, "role": "assistant", "text": "What is fine-tuning?", "tokens": 11}
+{"id": 71, "role": "user", "text": "What is few-shot prompting?", "tokens": 6}
+{"id": 136, "role": "assistant", "text": "What is JSON Lines?", "tokens": 12}
+{"id": 384, "role": "user", "text": "Fine-tuning adapts a pre-trained model to a specific task.", "tokens": 10}
+{"id": 247, "role": "assistant", "text": "Embeddings are dense vector representations of text.", "tokens": 10}
+{"id": 538, "role": "user", "text": "What is fine-tuning?", "tokens": 5}
+{"id": 526, "role": "system", "text": "Tell me about vector databases.", "tokens": 10}
+{"id": 161, "role": "system", "text": "What is JSON Lines?", "tokens": 8}
+{"id": 200, "role": "user", "text": "How does chunking work?", "tokens": 6}
+{"id": 462, "role": "system", "text": "How do transformers work?", "tokens": 13}
+{"id": 461, "role": "user", "text": "How do transformers work?", "tokens": 15}
+{"id": 166, "role": "assistant", "text": "Explain chain-of-thought reasoning.", "tokens": 10}
+{"id": 96, "role": "assistant", "text": "What is tokenization?", "tokens": 12}
+{"id": 117, "role": "user", "text": "Explain attention mechanisms.", "tokens": 2}
+{"id": 130, "role": "assistant", "text": "What is cosine similarity?", "tokens": 8}
+{"id": 56, "role": "assistant", "text": "How does chunking work?", "tokens": 10}
+{"id": 3, "role": "system", "text": "How does chunking work?", "tokens": 11}
+{"id": 549, "role": "user", "text": "What is fine-tuning?", "tokens": 10}
+{"id": 330, "role": "system", "text": "What are LLM agents?", "tokens": 11}
+{"id": 436, "role": "system", "text": "Explain embeddings.", "tokens": 9}
+{"id": 431, "role": "assistant", "text": "Fine-tuning adapts a pre-trained model to a specific task.", "tokens": 2}
+{"id": 357, "role": "user", "text": "How do transformers work?", "tokens": 6}
+{"id": 20, "role": "system", "text": "How does chunking work?", "tokens": 11}
+{"id": 135, "role": "system", "text": "Vector databases store and query high-dimensional vectors.", "tokens": 12}
+{"id": 16, "role": "assistant", "text": "How does chunking work?", "tokens": 15}
+{"id": 353, "role": "user", "text": "What are LLM agents?", "tokens": 15}
+{"id": 139, "role": "system", "text": "What is cosine similarity?", "tokens": 3}
+{"id": 531, "role": "assistant", "text": "Retrieval-Augmented Generation combines search with LLMs.", "tokens": 5}
+{"id": 432, "role": "user", "text": "Describe prompt engineering.", "tokens": 9}
+{"id": 140, "role": "user", "text": "Describe prompt engineering.", "tokens": 5}
+{"id": 450, "role": "user", "text": "Describe prompt engineering.", "tokens": 10}
+{"id": 91, "role": "system", "text": "Embeddings are dense vector representations of text.", "tokens": 2}
+{"id": 600, "role": "user", "text": "Fine-tuning adapts a pre-trained model to a specific task.", "tokens": 9}
+{"id": 348, "role": "user", "text": "Explain embeddings.", "tokens": 14}
+{"id": 528, "role": "user", "text": "How do transformers work?", "tokens": 9}
+{"id": 310, "role": "user", "text": "What is few-shot prompting?", "tokens": 15}
+{"id": 326, "role": "user", "text": "What is JSON Lines?", "tokens": 3}
+{"id": 87, "role": "system", "text": "What is fine-tuning?", "tokens": 3}
+{"id": 176, "role": "assistant", "text": "What is cosine similarity?", "tokens": 7}
+{"id": 556, "role": "system", "text": "Vector databases store and query high-dimensional vectors.", "tokens": 13}
+{"id": 302, "role": "system", "text": "How do transformers work?", "tokens": 4}
+{"id": 393, "role": "user", "text": "Tell me about vector databases.", "tokens": 13}
+{"id": 406, "role": "user", "text": "Tell me about vector databases.", "tokens": 14}
+{"id": 146, "role": "user", "text": "Explain chain-of-thought reasoning.", "tokens": 5}
+{"id": 226, "role": "assistant", "text": "Retrieval-Augmented Generation combines search with LLMs.", "tokens": 3}
+{"id": 59, "role": "assistant", "text": "Explain chain-of-thought reasoning.", "tokens": 5}
+{"id": 51, "role": "assistant", "text": "What is fine-tuning?", "tokens": 5}
+{"id": 440, "role": "user", "text": "Explain attention mechanisms.", "tokens": 13}
+{"id": 76, "role": "system", "text": "What is cosine similarity?", "tokens": 2}
+{"id": 107, "role": "user", "text": "How do I evaluate a RAG pipeline?", "tokens": 5}
+{"id": 316, "role": "assistant", "text": "Explain attention mechanisms.", "tokens": 11}
+{"id": 537, "role": "system", "text": "How do transformers work?", "tokens": 14}
+{"id": 379, "role": "assistant", "text": "Tell me about vector databases.", "tokens": 10}
+{"id": 593, "role": "system", "text": "Describe prompt engineering.", "tokens": 11}
+{"id": 5, "role": "system", "text": "What is RAG?", "tokens": 10}
+{"id": 317, "role": "user", "text": "What is tokenization?", "tokens": 11}
+{"id": 283, "role": "system", "text": "Explain attention mechanisms.", "tokens": 11}
+{"id": 57, "role": "system", "text": "Retrieval-Augmented Generation combines search with LLMs.", "tokens": 5}
+{"id": 145, "role": "user", "text": "What is RAG?", "tokens": 14}
+{"id": 334, "role": "user", "text": "What is JSON Lines?", "tokens": 13}
+{"id": 598, "role": "system", "text": "What is RAG?", "tokens": 11}
+{"id": 396, "role": "assistant", "text": "Describe prompt engineering.", "tokens": 13}
+{"id": 248, "role": "user", "text": "Vector databases store and query high-dimensional vectors.", "tokens": 2}
+{"id": 541, "role": "system", "text": "Tell me about vector databases.", "tokens": 11}
+{"id": 577, "role": "user", "text": "What is tokenization?", "tokens": 11}
+{"id": 495, "role": "assistant", "text": "Explain embeddings.", "tokens": 12}
+{"id": 324, "role": "assistant", "text": "How do transformers work?", "tokens": 6}
+{"id": 26, "role": "assistant", "text": "What is tokenization?", "tokens": 12}
+{"id": 323, "role": "system", "text": "How do I evaluate a RAG pipeline?", "tokens": 10}
+{"id": 128, "role": "system", "text": "What is cosine similarity?", "tokens": 11}
+{"id": 132, "role": "assistant", "text": "How do transformers work?", "tokens": 11}
+{"id": 398, "role": "user", "text": "How do transformers work?", "tokens": 14}
+{"id": 67, "role": "system", "text": "What is fine-tuning?", "tokens": 2}
+{"id": 468, "role": "assistant", "text": "Embeddings are dense vector representations of text.", "tokens": 10}
+{"id": 178, "role": "assistant", "text": "What are LLM agents?", "tokens": 15}
+{"id": 533, "role": "assistant", "text": "How does chunking work?", "tokens": 14}
+{"id": 507, "role": "assistant", "text": "How do I evaluate a RAG pipeline?", "tokens": 15}
+{"id": 337, "role": "assistant", "text": "What is fine-tuning?", "tokens": 3}
+{"id": 73, "role": "system", "text": "Chunking splits documents into smaller pieces.", "tokens": 12}
+{"id": 274, "role": "system", "text": "Tell me about vector databases.", "tokens": 8}
+{"id": 83, "role": "system", "text": "Embeddings are dense vector representations of text.", "tokens": 7}
+{"id": 343, "role": "assistant", "text": "What is JSON Lines?", "tokens": 5}
+{"id": 62, "role": "user", "text": "What is fine-tuning?", "tokens": 2}
+{"id": 53, "role": "system", "text": "Explain attention mechanisms.", "tokens": 2}
+{"id": 555, "role": "user", "text": "Fine-tuning adapts a pre-trained model to a specific task.", "tokens": 11}
+{"id": 308, "role": "system", "text": "Describe prompt engineering.", "tokens": 12}
+{"id": 365, "role": "assistant", "text": "What is fine-tuning?", "tokens": 9}
+{"id": 63, "role": "assistant", "text": "What is fine-tuning?", "tokens": 5}
+{"id": 235, "role": "user", "text": "What are LLM agents?", "tokens": 12}
+{"id": 514, "role": "user", "text": "What is cosine similarity?", "tokens": 12}
+{"id": 260, "role": "assistant", "text": "What are LLM agents?", "tokens": 7}
+{"id": 376, "role": "assistant", "text": "How do I evaluate a RAG pipeline?", "tokens": 4}
+{"id": 575, "role": "assistant", "text": "Retrieval-Augmented Generation combines search with LLMs.", "tokens": 6}
+{"id": 49, "role": "system", "text": "What is tokenization?", "tokens": 13}
+{"id": 240, "role": "assistant", "text": "How does chunking work?", "tokens": 12}
+{"id": 4, "role": "user", "text": "How does chunking work?", "tokens": 5}
+{"id": 252, "role": "system", "text": "What are LLM agents?", "tokens": 11}
+{"id": 469, "role": "user", "text": "What is tokenization?", "tokens": 14}
+{"id": 78, "role": "system", "text": "How do transformers work?", "tokens": 2}
+{"id": 86, "role": "user", "text": "What is RAG?", "tokens": 9}
+{"id": 414, "role": "system", "text": "Explain chain-of-thought reasoning.", "tokens": 6}
+{"id": 223, "role": "assistant", "text": "What is fine-tuning?", "tokens": 15}
+{"id": 579, "role": "system", "text": "Retrieval-Augmented Generation combines search with LLMs.", "tokens": 6}
+{"id": 123, "role": "assistant", "text": "What is cosine similarity?", "tokens": 8}
+{"id": 320, "role": "assistant", "text": "What is JSON Lines?", "tokens": 2}
+{"id": 481, "role": "user", "text": "Retrieval-Augmented Generation combines search with LLMs.", "tokens": 9}
+{"id": 21, "role": "system", "text": "Explain attention mechanisms.", "tokens": 4}
+{"id": 373, "role": "user", "text": "Explain chain-of-thought reasoning.", "tokens": 7}
+{"id": 540, "role": "system", "text": "How do I evaluate a RAG pipeline?", "tokens": 9}
+{"id": 27, "role": "system", "text": "What is JSON Lines?", "tokens": 4}
+{"id": 519, "role": "assistant", "text": "How do I evaluate a RAG pipeline?", "tokens": 10}
+{"id": 48, "role": "system", "text": "Explain chain-of-thought reasoning.", "tokens": 5}
+{"id": 518, "role": "assistant", "text": "Explain embeddings.", "tokens": 3}
+{"id": 41, "role": "assistant", "text": "How do transformers work?", "tokens": 10}
+{"id": 170, "role": "assistant", "text": "How do transformers work?", "tokens": 15}
+{"id": 105, "role": "user", "text": "Explain chain-of-thought reasoning.", "tokens": 4}
+{"id": 400, "role": "assistant", "text": "Retrieval-Augmented Generation combines search with LLMs.", "tokens": 11}
+{"id": 196, "role": "assistant", "text": "Tell me about vector databases.", "tokens": 8}
+{"id": 199, "role": "system", "text": "Fine-tuning adapts a pre-trained model to a specific task.", "tokens": 6}
+{"id": 367, "role": "user", "text": "How does chunking work?", "tokens": 4}
+{"id": 272, "role": "assistant", "text": "Describe prompt engineering.", "tokens": 10}
+{"id": 304, "role": "assistant", "text": "Fine-tuning adapts a pre-trained model to a specific task.", "tokens": 4}
+{"id": 408, "role": "assistant", "text": "How do transformers work?", "tokens": 4}
+{"id": 479, "role": "system", "text": "What is cosine similarity?", "tokens": 14}
+{"id": 465, "role": "assistant", "text": "Explain attention mechanisms.", "tokens": 10}
+{"id": 553, "role": "system", "text": "What are LLM agents?", "tokens": 4}
+{"id": 366, "role": "assistant", "text": "How does chunking work?", "tokens": 3}
+{"id": 243, "role": "system", "text": "Tell me about vector databases.", "tokens": 6}
+{"id": 95, "role": "assistant", "text": "Describe prompt engineering.", "tokens": 11}
+{"id": 527, "role": "assistant", "text": "What are LLM agents?", "tokens": 5}
+{"id": 430, "role": "assistant", "text": "What is JSON Lines?", "tokens": 12}
+{"id": 543, "role": "system", "text": "Retrieval-Augmented Generation combines search with LLMs.", "tokens": 10}
+{"id": 214, "role": "assistant", "text": "What are LLM agents?", "tokens": 6}
+{"id": 313, "role": "system", "text": "What is few-shot prompting?", "tokens": 6}
+{"id": 392, "role": "user", "text": "Tell me about vector databases.", "tokens": 11}
+{"id": 254, "role": "system", "text": "What is JSON Lines?", "tokens": 6}
+{"id": 285, "role": "system", "text": "What is few-shot prompting?", "tokens": 8}
+{"id": 219, "role": "user", "text": "Describe prompt engineering.", "tokens": 5}
+{"id": 90, "role": "assistant", "text": "Chunking splits documents into smaller pieces.", "tokens": 13}
+{"id": 213, "role": "system", "text": "Chunking splits documents into smaller pieces.", "tokens": 7}
+{"id": 437, "role": "system", "text": "What is tokenization?", "tokens": 7}
+{"id": 573, "role": "user", "text": "What is cosine similarity?", "tokens": 11}
+{"id": 154, "role": "assistant", "text": "What are LLM agents?", "tokens": 14}
+{"id": 212, "role": "assistant", "text": "Chunking splits documents into smaller pieces.", "tokens": 10}
+{"id": 472, "role": "system", "text": "What is fine-tuning?", "tokens": 6}
+{"id": 427, "role": "system", "text": "What is JSON Lines?", "tokens": 12}
+{"id": 74, "role": "user", "text": "What is tokenization?", "tokens": 6}
+{"id": 504, "role": "user", "text": "Explain embeddings.", "tokens": 7}
+{"id": 122, "role": "assistant", "text": "Explain embeddings.", "tokens": 3}
+{"id": 477, "role": "user", "text": "What is few-shot prompting?", "tokens": 3}
+{"id": 164, "role": "system", "text": "What is few-shot prompting?", "tokens": 9}
+{"id": 565, "role": "assistant", "text": "What is JSON Lines?", "tokens": 5}
+{"id": 149, "role": "user", "text": "What is JSON Lines?", "tokens": 4}
+{"id": 486, "role": "system", "text": "Vector databases store and query high-dimensional vectors.", "tokens": 9}
+{"id": 72, "role": "assistant", "text": "Describe prompt engineering.", "tokens": 8}
+{"id": 397, "role": "system", "text": "Vector databases store and query high-dimensional vectors.", "tokens": 3}
+{"id": 120, "role": "system", "text": "Chunking splits documents into smaller pieces.", "tokens": 7}
+{"id": 225, "role": "assistant", "text": "What is cosine similarity?", "tokens": 4}
+{"id": 23, "role": "user", "text": "Explain attention mechanisms.", "tokens": 15}
+{"id": 126, "role": "user", "text": "Embeddings are dense vector representations of text.", "tokens": 14}
+{"id": 25, "role": "user", "text": "What is tokenization?", "tokens": 11}
+{"id": 307, "role": "user", "text": "How does chunking work?", "tokens": 9}
+{"id": 18, "role": "assistant", "text": "How do transformers work?", "tokens": 7}
+{"id": 483, "role": "user", "text": "Chunking splits documents into smaller pieces.", "tokens": 13}
+{"id": 583, "role": "user", "text": "How do I evaluate a RAG pipeline?", "tokens": 10}
+{"id": 35, "role": "user", "text": "What is fine-tuning?", "tokens": 12}
+{"id": 124, "role": "system", "text": "What is fine-tuning?", "tokens": 8}
+{"id": 9, "role": "user", "text": "What is cosine similarity?", "tokens": 3}
+{"id": 485, "role": "assistant", "text": "What is fine-tuning?", "tokens": 2}
+{"id": 215, "role": "user", "text": "What is tokenization?", "tokens": 7}
+{"id": 369, "role": "assistant", "text": "Vector databases store and query high-dimensional vectors.", "tokens": 10}
+{"id": 385, "role": "system", "text": "Retrieval-Augmented Generation combines search with LLMs.", "tokens": 5}
+{"id": 523, "role": "assistant", "text": "What is few-shot prompting?", "tokens": 11}
+{"id": 97, "role": "assistant", "text": "Embeddings are dense vector representations of text.", "tokens": 9}
+{"id": 142, "role": "assistant", "text": "Vector databases store and query high-dimensional vectors.", "tokens": 15}
+{"id": 80, "role": "system", "text": "Explain attention mechanisms.", "tokens": 8}
+{"id": 452, "role": "system", "text": "Embeddings are dense vector representations of text.", "tokens": 3}
+{"id": 118, "role": "assistant", "text": "What is cosine similarity?", "tokens": 6}
+{"id": 195, "role": "assistant", "text": "How do I evaluate a RAG pipeline?", "tokens": 12}
+{"id": 273, "role": "assistant", "text": "Retrieval-Augmented Generation combines search with LLMs.", "tokens": 9}
+{"id": 218, "role": "system", "text": "Vector databases store and query high-dimensional vectors.", "tokens": 6}
+{"id": 113, "role": "system", "text": "Explain attention mechanisms.", "tokens": 6}
+{"id": 152, "role": "system", "text": "Explain chain-of-thought reasoning.", "tokens": 15}
+{"id": 153, "role": "assistant", "text": "How do transformers work?", "tokens": 13}
+{"id": 402, "role": "assistant", "text": "Explain chain-of-thought reasoning.", "tokens": 3}
+{"id": 399, "role": "system", "text": "How does chunking work?", "tokens": 6}
+{"id": 115, "role": "assistant", "text": "Explain attention mechanisms.", "tokens": 5}
+{"id": 66, "role": "user", "text": "What is JSON Lines?", "tokens": 14}
+{"id": 443, "role": "assistant", "text": "Vector databases store and query high-dimensional vectors.", "tokens": 2}
+{"id": 202, "role": "assistant", "text": "What is cosine similarity?", "tokens": 2}
+{"id": 458, "role": "system", "text": "Chunking splits documents into smaller pieces.", "tokens": 15}
+{"id": 561, "role": "assistant", "text": "Chunking splits documents into smaller pieces.", "tokens": 6}
+{"id": 478, "role": "user", "text": "What is cosine similarity?", "tokens": 3}
+{"id": 498, "role": "system", "text": "What is fine-tuning?", "tokens": 14}
+{"id": 476, "role": "assistant", "text": "Explain embeddings.", "tokens": 8}
+{"id": 277, "role": "assistant", "text": "What is cosine similarity?", "tokens": 14}
+{"id": 534, "role": "assistant", "text": "How do I evaluate a RAG pipeline?", "tokens": 13}
+{"id": 446, "role": "system", "text": "Vector databases store and query high-dimensional vectors.", "tokens": 15}
+{"id": 193, "role": "assistant", "text": "How does chunking work?", "tokens": 10}
+{"id": 194, "role": "user", "text": "Explain chain-of-thought reasoning.", "tokens": 15}
+{"id": 464, "role": "assistant", "text": "Vector databases store and query high-dimensional vectors.", "tokens": 6}
+{"id": 331, "role": "system", "text": "How do I evaluate a RAG pipeline?", "tokens": 3}
+{"id": 374, "role": "assistant", "text": "Explain chain-of-thought reasoning.", "tokens": 13}
+{"id": 70, "role": "user", "text": "What is few-shot prompting?", "tokens": 2}
+{"id": 210, "role": "user", "text": "Describe prompt engineering.", "tokens": 5}
+{"id": 147, "role": "system", "text": "Embeddings are dense vector representations of text.", "tokens": 9}
+{"id": 17, "role": "user", "text": "What is few-shot prompting?", "tokens": 6}
+{"id": 460, "role": "system", "text": "Tell me about vector databases.", "tokens": 11}
+{"id": 36, "role": "assistant", "text": "What is cosine similarity?", "tokens": 3}
+{"id": 31, "role": "user", "text": "What is fine-tuning?", "tokens": 4}
+{"id": 359, "role": "user", "text": "How does chunking work?", "tokens": 9}
+{"id": 177, "role": "assistant", "text": "What are LLM agents?", "tokens": 14}
+{"id": 217, "role": "assistant", "text": "What are LLM agents?", "tokens": 13}
+{"id": 554, "role": "system", "text": "Chunking splits documents into smaller pieces.", "tokens": 3}
+{"id": 550, "role": "user", "text": "How do transformers work?", "tokens": 7}
+{"id": 382, "role": "system", "text": "Explain chain-of-thought reasoning.", "tokens": 15}
+{"id": 2, "role": "system", "text": "What is fine-tuning?", "tokens": 12}
+{"id": 131, "role": "system", "text": "Tell me about vector databases.", "tokens": 5}
+{"id": 203, "role": "assistant", "text": "How do transformers work?", "tokens": 9}
+{"id": 12, "role": "system", "text": "What is JSON Lines?", "tokens": 10}
+{"id": 502, "role": "user", "text": "How does chunking work?", "tokens": 13}
+{"id": 345, "role": "system", "text": "How do I evaluate a RAG pipeline?", "tokens": 2}
+{"id": 237, "role": "user", "text": "How do transformers work?", "tokens": 2}
+{"id": 287, "role": "user", "text": "Embeddings are dense vector representations of text.", "tokens": 11}
+{"id": 30, "role": "user", "text": "Tell me about vector databases.", "tokens": 10}
+{"id": 439, "role": "assistant", "text": "How does chunking work?", "tokens": 10}
+{"id": 234, "role": "system", "text": "What is fine-tuning?", "tokens": 14}
+{"id": 463, "role": "assistant", "text": "How do I evaluate a RAG pipeline?", "tokens": 12}
+{"id": 595, "role": "assistant", "text": "Retrieval-Augmented Generation combines search with LLMs.", "tokens": 15}
+{"id": 68, "role": "system", "text": "What is RAG?", "tokens": 3}
+{"id": 467, "role": "system", "text": "What is JSON Lines?", "tokens": 9}
+{"id": 29, "role": "system", "text": "Explain chain-of-thought reasoning.", "tokens": 11}
+{"id": 444, "role": "system", "text": "What is cosine similarity?", "tokens": 3}
+{"id": 262, "role": "user", "text": "Chunking splits documents into smaller pieces.", "tokens": 9}
+{"id": 251, "role": "system", "text": "Fine-tuning adapts a pre-trained model to a specific task.", "tokens": 2}
+{"id": 503, "role": "assistant", "text": "Explain embeddings.", "tokens": 6}
+{"id": 368, "role": "system", "text": "Fine-tuning adapts a pre-trained model to a specific task.", "tokens": 10}
+{"id": 451, "role": "assistant", "text": "Tell me about vector databases.", "tokens": 12}
+{"id": 227, "role": "assistant", "text": "Retrieval-Augmented Generation combines search with LLMs.", "tokens": 3}
+{"id": 267, "role": "user", "text": "Vector databases store and query high-dimensional vectors.", "tokens": 14}
+{"id": 168, "role": "assistant", "text": "Explain chain-of-thought reasoning.", "tokens": 9}
+{"id": 85, "role": "user", "text": "Describe prompt engineering.", "tokens": 9}
+{"id": 275, "role": "system", "text": "Embeddings are dense vector representations of text.", "tokens": 13}
+{"id": 259, "role": "assistant", "text": "Chunking splits documents into smaller pieces.", "tokens": 2}
+{"id": 425, "role": "user", "text": "How does chunking work?", "tokens": 4}
+{"id": 494, "role": "system", "text": "Chunking splits documents into smaller pieces.", "tokens": 2}
+{"id": 58, "role": "system", "text": "Fine-tuning adapts a pre-trained model to a specific task.", "tokens": 11}
+{"id": 289, "role": "assistant", "text": "What is RAG?", "tokens": 13}
+{"id": 40, "role": "system", "text": "Embeddings are dense vector representations of text.", "tokens": 11}
+{"id": 186, "role": "system", "text": "Vector databases store and query high-dimensional vectors.", "tokens": 13}
+{"id": 482, "role": "user", "text": "What is RAG?", "tokens": 6}
+{"id": 42, "role": "system", "text": "What is RAG?", "tokens": 11}
+{"id": 404, "role": "assistant", "text": "Explain embeddings.", "tokens": 5}
+{"id": 547, "role": "system", "text": "Fine-tuning adapts a pre-trained model to a specific task.", "tokens": 4}
+{"id": 349, "role": "user", "text": "Fine-tuning adapts a pre-trained model to a specific task.", "tokens": 5}
+{"id": 127, "role": "system", "text": "What is tokenization?", "tokens": 7}
+{"id": 391, "role": "system", "text": "Describe prompt engineering.", "tokens": 7}
+{"id": 586, "role": "user", "text": "What is fine-tuning?", "tokens": 8}
+{"id": 341, "role": "assistant", "text": "Vector databases store and query high-dimensional vectors.", "tokens": 8}
+{"id": 520, "role": "system", "text": "How do transformers work?", "tokens": 2}
+{"id": 276, "role": "user", "text": "What are LLM agents?", "tokens": 14}
+{"id": 388, "role": "assistant", "text": "Chunking splits documents into smaller pieces.", "tokens": 14}
+{"id": 242, "role": "user", "text": "Explain chain-of-thought reasoning.", "tokens": 3}
+{"id": 282, "role": "assistant", "text": "What is cosine similarity?", "tokens": 15}
+{"id": 360, "role": "assistant", "text": "Embeddings are dense vector representations of text.", "tokens": 11}
+{"id": 311, "role": "user", "text": "What is few-shot prompting?", "tokens": 11}
+{"id": 383, "role": "user", "text": "Describe prompt engineering.", "tokens": 11}
+{"id": 233, "role": "assistant", "text": "Describe prompt engineering.", "tokens": 11}
+{"id": 79, "role": "user", "text": "How do transformers work?", "tokens": 3}
+{"id": 245, "role": "system", "text": "Fine-tuning adapts a pre-trained model to a specific task.", "tokens": 6}
+{"id": 69, "role": "user", "text": "How do transformers work?", "tokens": 8}
+{"id": 114, "role": "system", "text": "What is fine-tuning?", "tokens": 8}
+{"id": 315, "role": "system", "text": "Retrieval-Augmented Generation combines search with LLMs.", "tokens": 15}
+{"id": 189, "role": "assistant", "text": "What is few-shot prompting?", "tokens": 13}
+{"id": 328, "role": "assistant", "text": "How does chunking work?", "tokens": 14}
+{"id": 160, "role": "user", "text": "How does chunking work?", "tokens": 8}
+{"id": 395, "role": "assistant", "text": "Explain chain-of-thought reasoning.", "tokens": 9}
+{"id": 455, "role": "user", "text": "What is cosine similarity?", "tokens": 14}
+{"id": 459, "role": "system", "text": "Explain embeddings.", "tokens": 12}
+{"id": 258, "role": "assistant", "text": "Retrieval-Augmented Generation combines search with LLMs.", "tokens": 6}
+{"id": 352, "role": "assistant", "text": "Tell me about vector databases.", "tokens": 14}
+{"id": 208, "role": "system", "text": "Explain attention mechanisms.", "tokens": 13}
+{"id": 82, "role": "system", "text": "How does chunking work?", "tokens": 8}
+{"id": 158, "role": "assistant", "text": "Chunking splits documents into smaller pieces.", "tokens": 3}
+{"id": 580, "role": "user", "text": "Explain chain-of-thought reasoning.", "tokens": 4}
+{"id": 562, "role": "assistant", "text": "Retrieval-Augmented Generation combines search with LLMs.", "tokens": 5}
+{"id": 342, "role": "assistant", "text": "Explain embeddings.", "tokens": 13}
+{"id": 32, "role": "system", "text": "Explain chain-of-thought reasoning.", "tokens": 11}
+{"id": 510, "role": "assistant", "text": "What is cosine similarity?", "tokens": 4}
+{"id": 597, "role": "assistant", "text": "Fine-tuning adapts a pre-trained model to a specific task.", "tokens": 6}
+{"id": 185, "role": "assistant", "text": "What are LLM agents?", "tokens": 14}
+{"id": 335, "role": "assistant", "text": "What is fine-tuning?", "tokens": 4}
+{"id": 294, "role": "system", "text": "Retrieval-Augmented Generation combines search with LLMs.", "tokens": 15}
+{"id": 299, "role": "assistant", "text": "What is RAG?", "tokens": 2}
+{"id": 155, "role": "system", "text": "What are LLM agents?", "tokens": 14}
+{"id": 516, "role": "system", "text": "What is JSON Lines?", "tokens": 7}
+{"id": 137, "role": "assistant", "text": "How do transformers work?", "tokens": 12}
+{"id": 121, "role": "user", "text": "What are LLM agents?", "tokens": 4}
+{"id": 268, "role": "user", "text": "Describe prompt engineering.", "tokens": 10}
+{"id": 7, "role": "system", "text": "What are LLM agents?", "tokens": 14}
+{"id": 255, "role": "system", "text": "Explain chain-of-thought reasoning.", "tokens": 12}
+{"id": 332, "role": "assistant", "text": "What is RAG?", "tokens": 11}
+{"id": 567, "role": "system", "text": "How do I evaluate a RAG pipeline?", "tokens": 8}
+{"id": 144, "role": "system", "text": "What is few-shot prompting?", "tokens": 9}
+{"id": 190, "role": "system", "text": "Explain attention mechanisms.", "tokens": 3}
+{"id": 98, "role": "user", "text": "How does chunking work?", "tokens": 12}
+{"id": 411, "role": "system", "text": "Explain embeddings.", "tokens": 8}
+{"id": 89, "role": "user", "text": "Explain attention mechanisms.", "tokens": 7}
+{"id": 438, "role": "system", "text": "Tell me about vector databases.", "tokens": 2}
+{"id": 416, "role": "system", "text": "What is JSON Lines?", "tokens": 15}
+{"id": 536, "role": "assistant", "text": "How do transformers work?", "tokens": 13}
+{"id": 303, "role": "system", "text": "What is few-shot prompting?", "tokens": 11}
+{"id": 346, "role": "user", "text": "What is fine-tuning?", "tokens": 15}
+{"id": 15, "role": "user", "text": "How does chunking work?", "tokens": 2}
+{"id": 551, "role": "user", "text": "How do I evaluate a RAG pipeline?", "tokens": 10}
+{"id": 264, "role": "assistant", "text": "What is JSON Lines?", "tokens": 14}
+{"id": 470, "role": "assistant", "text": "Explain embeddings.", "tokens": 12}
+{"id": 167, "role": "system", "text": "Vector databases store and query high-dimensional vectors.", "tokens": 5}
+{"id": 589, "role": "user", "text": "Explain embeddings.", "tokens": 2}
+{"id": 116, "role": "assistant", "text": "How do I evaluate a RAG pipeline?", "tokens": 6}
+{"id": 198, "role": "system", "text": "Retrieval-Augmented Generation combines search with LLMs.", "tokens": 9}
+{"id": 280, "role": "user", "text": "What is JSON Lines?", "tokens": 10}
+{"id": 517, "role": "system", "text": "How do I evaluate a RAG pipeline?", "tokens": 11}
+{"id": 506, "role": "assistant", "text": "Explain embeddings.", "tokens": 14}
+{"id": 466, "role": "assistant", "text": "What is tokenization?", "tokens": 7}
+{"id": 292, "role": "system", "text": "How does chunking work?", "tokens": 15}
+{"id": 344, "role": "user", "text": "How do I evaluate a RAG pipeline?", "tokens": 10}
+{"id": 110, "role": "user", "text": "How do transformers work?", "tokens": 14}
+{"id": 558, "role": "user", "text": "How does chunking work?", "tokens": 2}
+{"id": 191, "role": "assistant", "text": "Vector databases store and query high-dimensional vectors.", "tokens": 14}
+{"id": 508, "role": "system", "text": "What is cosine similarity?", "tokens": 6}
+{"id": 407, "role": "assistant", "text": "What is fine-tuning?", "tokens": 2}
+{"id": 38, "role": "system", "text": "What are LLM agents?", "tokens": 10}
+{"id": 181, "role": "system", "text": "Explain embeddings.", "tokens": 14}
+{"id": 428, "role": "system", "text": "Vector databases store and query high-dimensional vectors.", "tokens": 7}
+{"id": 180, "role": "user", "text": "How do I evaluate a RAG pipeline?", "tokens": 5}
+{"id": 39, "role": "system", "text": "What is fine-tuning?", "tokens": 15}
+{"id": 548, "role": "user", "text": "Explain chain-of-thought reasoning.", "tokens": 10}
+{"id": 238, "role": "system", "text": "Vector databases store and query high-dimensional vectors.", "tokens": 9}
+{"id": 92, "role": "system", "text": "Describe prompt engineering.", "tokens": 12}
+{"id": 61, "role": "assistant", "text": "Explain chain-of-thought reasoning.", "tokens": 9}
+{"id": 293, "role": "system", "text": "Chunking splits documents into smaller pieces.", "tokens": 8}
+{"id": 329, "role": "assistant", "text": "Chunking splits documents into smaller pieces.", "tokens": 3}
+{"id": 599, "role": "system", "text": "Fine-tuning adapts a pre-trained model to a specific task.", "tokens": 11}
+{"id": 205, "role": "system", "text": "What are LLM agents?", "tokens": 10}
+{"id": 489, "role": "system", "text": "Explain attention mechanisms.", "tokens": 13}
+{"id": 488, "role": "system", "text": "Chunking splits documents into smaller pieces.", "tokens": 2}
+{"id": 417, "role": "assistant", "text": "How does chunking work?", "tokens": 8}
+{"id": 564, "role": "system", "text": "Explain embeddings.", "tokens": 4}
+{"id": 6, "role": "system", "text": "Chunking splits documents into smaller pieces.", "tokens": 8}
+{"id": 587, "role": "assistant", "text": "Chunking splits documents into smaller pieces.", "tokens": 7}
+{"id": 578, "role": "user", "text": "Describe prompt engineering.", "tokens": 9}
+{"id": 484, "role": "assistant", "text": "What is fine-tuning?", "tokens": 14}
+{"id": 339, "role": "system", "text": "Chunking splits documents into smaller pieces.", "tokens": 8}
+{"id": 103, "role": "system", "text": "Tell me about vector databases.", "tokens": 10}
+{"id": 239, "role": "user", "text": "Describe prompt engineering.", "tokens": 13}
+{"id": 232, "role": "assistant", "text": "What is JSON Lines?", "tokens": 6}
+{"id": 544, "role": "assistant", "text": "Fine-tuning adapts a pre-trained model to a specific task.", "tokens": 3}
+{"id": 52, "role": "assistant", "text": "What is RAG?", "tokens": 11}
+{"id": 246, "role": "assistant", "text": "Describe prompt engineering.", "tokens": 13}
+{"id": 112, "role": "assistant", "text": "Explain chain-of-thought reasoning.", "tokens": 14}
+{"id": 141, "role": "user", "text": "What is RAG?", "tokens": 2}
+{"id": 279, "role": "system", "text": "Fine-tuning adapts a pre-trained model to a specific task.", "tokens": 12}
+{"id": 576, "role": "user", "text": "What is few-shot prompting?", "tokens": 10}
+{"id": 278, "role": "user", "text": "Describe prompt engineering.", "tokens": 13}
+{"id": 552, "role": "user", "text": "What are LLM agents?", "tokens": 5}
+{"id": 220, "role": "assistant", "text": "What is RAG?", "tokens": 13}
+{"id": 491, "role": "system", "text": "Explain chain-of-thought reasoning.", "tokens": 4}
+{"id": 263, "role": "user", "text": "Embeddings are dense vector representations of text.", "tokens": 7}
+{"id": 453, "role": "assistant", "text": "Embeddings are dense vector representations of text.", "tokens": 7}
+{"id": 355, "role": "user", "text": "What is RAG?", "tokens": 4}
+{"id": 44, "role": "assistant", "text": "Explain attention mechanisms.", "tokens": 2}
+{"id": 298, "role": "system", "text": "What is fine-tuning?", "tokens": 9}
+{"id": 150, "role": "system", "text": "Embeddings are dense vector representations of text.", "tokens": 10}
+{"id": 354, "role": "user", "text": "Chunking splits documents into smaller pieces.", "tokens": 6}
+{"id": 405, "role": "system", "text": "Explain embeddings.", "tokens": 2}
+{"id": 389, "role": "system", "text": "Chunking splits documents into smaller pieces.", "tokens": 2}
+{"id": 557, "role": "assistant", "text": "Fine-tuning adapts a pre-trained model to a specific task.", "tokens": 2}
+{"id": 588, "role": "user", "text": "Vector databases store and query high-dimensional vectors.", "tokens": 10}
+{"id": 125, "role": "user", "text": "What are LLM agents?", "tokens": 2}
+{"id": 295, "role": "system", "text": "How does chunking work?", "tokens": 5}
+{"id": 281, "role": "assistant", "text": "Chunking splits documents into smaller pieces.", "tokens": 14}
+{"id": 574, "role": "user", "text": "How do transformers work?", "tokens": 9}
+{"id": 492, "role": "user", "text": "Embeddings are dense vector representations of text.", "tokens": 7}
+{"id": 325, "role": "assistant", "text": "Describe prompt engineering.", "tokens": 13}
+{"id": 501, "role": "assistant", "text": "Retrieval-Augmented Generation combines search with LLMs.", "tokens": 12}
+{"id": 296, "role": "assistant", "text": "Explain attention mechanisms.", "tokens": 13}
+{"id": 305, "role": "system", "text": "What are LLM agents?", "tokens": 9}
+{"id": 231, "role": "system", "text": "Explain attention mechanisms.", "tokens": 14}
+{"id": 306, "role": "user", "text": "What is JSON Lines?", "tokens": 6}
+{"id": 572, "role": "system", "text": "Explain chain-of-thought reasoning.", "tokens": 5}
+{"id": 286, "role": "system", "text": "Tell me about vector databases.", "tokens": 9}
+{"id": 197, "role": "system", "text": "What are LLM agents?", "tokens": 11}
+{"id": 496, "role": "assistant", "text": "What are LLM agents?", "tokens": 13}
+{"id": 271, "role": "assistant", "text": "What is fine-tuning?", "tokens": 12}
+{"id": 363, "role": "system", "text": "Embeddings are dense vector representations of text.", "tokens": 6}
+{"id": 560, "role": "system", "text": "Explain chain-of-thought reasoning.", "tokens": 11}
+{"id": 351, "role": "system", "text": "What is tokenization?", "tokens": 15}

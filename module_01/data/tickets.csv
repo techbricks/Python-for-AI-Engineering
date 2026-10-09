@@ -1,0 +1,7 @@
+ticket_id,customer,message
+101,Alice,"I was charged twice for my subscription last month. Please refund the duplicate."
+102,Bob,"The app crashes every time I try to upload a file larger than 10MB."
+103,Carol,"How do I change the email address on my account?"
+104,Dan,"I love your product! Just wanted to say thanks to the team."
+105,Eve,"My invoice shows a charge for a plan I never signed up for."
+106,Frank,"Getting a 502 error on the API endpoint since this morning."
